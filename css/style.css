@@ -1,0 +1,63 @@
+#content{
+	
+}
+.item {
+	float: left;
+	margin: 5px;
+	padding-bottom: 5px;
+	padding: 15px;
+	width: 220px;
+	height: 300px;
+	border: 1px solid black;
+	} 
+	/*
+button{
+	width: 50px;
+	margin: 5px;
+	padding: 15px;
+	}*/
+.ui_comtent{
+	background-color: pink;
+	position: relative;
+	width: 100%
+}
+footer{
+	position:absolute;
+	bottom:0;
+}
+
+#bla{clear:both;}
+
+#col_stg{
+float:left;
+padding:2px;
+width: 30%;
+background-color:#ffffff;
+}
+
+#col_dr{
+margin:0;
+padding:2px;
+width: 55%;
+float:right;
+}
+
+#formular_stg{
+	position:relative;
+	float:left;
+	width: 45%;
+	padding: 5px;
+	border: 1px solid black;
+}
+#spatiuPic{
+	margin:0;
+	padding:5px;
+	width: 45%;
+	float:right;
+	border: 1px solid black;
+}
+#cod{
+	background-color:pink;
+	padding: 5px;
+	margin: 5px;
+}
